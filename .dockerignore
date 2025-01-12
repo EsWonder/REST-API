@@ -1,0 +1,3 @@
+node_modules
+npm-debug.log
+docker run -p 3000:3000 hola-mundo-api
